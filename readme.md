@@ -32,19 +32,3 @@ Place your PDF files (super.pdf and wtr.pdf) in the working directory.
 Run the script to add a watermark: python pdf_watermark.py
 
 ##  Made by Nishant Acharekar, under Course of Complete Python Developer 2024 by ZTM on Udemy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##  Made by Nishant Acharekar, under Course of Complete Python Developer 2024 by ZTM on Udemy
